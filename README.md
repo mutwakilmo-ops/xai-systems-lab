@@ -86,9 +86,12 @@ This is not a practice repo. It is **my golden ticket to xAI**.
 
 I am applying to:
 
-1. **Rust/C++ Backend Engineer – grok.com & API**  
-2. **Rust/C++ Backend Engineer – Enterprise Agents**  
-3. **Software Engineer – Networking Software & Services**  
+1.[🔗 Rust/C++ Backend Engineer – grok.com & API (xAI job)](https://job-boards.greenhouse.io/xai/jobs/4784548007)  
+
+2. [🔗 Rust/C++ Backend Engineer – Enterprise (xAI job)](https://job-boards.greenhouse.io/xai/jobs/4779590007)
+   
+3.🔗[Software Engineer - Networking Software and Services (xAI job)](https://job-boards.greenhouse.io/xai/jobs/4794532007)
+
 
 This repository represents the **intersection of all three roles**, highlighting my preparation, alignment, and ability to make an immediate impact.
 
